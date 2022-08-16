@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @belenwebdev
 - 👀 I’m interested in front-end development and ux design
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on web development projects
+- 🚀 Visit my portfolio: belencarrion.dev
 - 📫 How to reach me: belencarriondev@gmail.com
 
 <!---
